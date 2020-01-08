@@ -1,4 +1,4 @@
-# InSpec Compliance Profile: openjdk8
+# InSpec Compliance Profile: openjdk-8-jdk
 
 [![](https://github.com/darkwizard242/inspec-openjdk8/workflows/inspec-openjdk-8-jdk-build/badge.svg)](https://github.com/darkwizard242/inspec-openjdk-8-jdk/actions) ![GitHub](https://img.shields.io/github/license/darkwizard242/inspec-openjdk-8-jdk)
 
