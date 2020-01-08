@@ -1,4 +1,4 @@
-name: inspec-openjdk8-build
+name: inspec-openjdk-8-jdk-build
 
 on:
   pull_request:
